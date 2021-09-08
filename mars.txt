@@ -1,3 +1,5 @@
 Something is written here.
 Some more stuff here.
 Modified for partner exercise.
+
+This line is added by partner, Shelly Meyett.
